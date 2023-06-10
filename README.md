@@ -1,2 +1,2 @@
 # Cgame
-game code written by C lang
+稀にC言語を使ったアルゴリズムやその辺をアップロードする
